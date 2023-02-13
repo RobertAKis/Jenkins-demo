@@ -22,4 +22,6 @@ public class Controller {
     public String works(){
         return "Finally the webhook works!";
     }
+
+    public void bin(){}
 }
